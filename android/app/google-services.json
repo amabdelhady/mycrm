@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451715942903",
+    "firebase_url": "https://my-crm-edfa7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-crm-edfa7",
+    "storage_bucket": "my-crm-edfa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451715942903:android:fee87b1f9dbb1a799946f2",
+        "android_client_info": {
+          "package_name": "com.example.crm_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451715942903-nui0fo4nhvvmtmtki937ef3g8v103u3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9Yv9q1x5FgzvhB3UwoQcfWK3xHs-zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451715942903-nui0fo4nhvvmtmtki937ef3g8v103u3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451715942903:android:54ecd57b296285e79946f2",
+        "android_client_info": {
+          "package_name": "com.example.newnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451715942903-nui0fo4nhvvmtmtki937ef3g8v103u3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9Yv9q1x5FgzvhB3UwoQcfWK3xHs-zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451715942903-nui0fo4nhvvmtmtki937ef3g8v103u3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
